@@ -1,4 +1,4 @@
-Project is deployed on this link - admin-dashboard-mauve-six.vercel.app
+Project is deployed on this link - https://admin-dashboard-lvnkixqfi-yash-pratap-singhs-projects.vercel.app
 
 # Getting Started with Create React App
 
